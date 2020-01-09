@@ -51,10 +51,12 @@ jobs:
     <<: *defaults
     docker:
       - image: circleci/node:12-stretch
+    <<: *test_steps
   test-node13:
     <<: *defaults
     docker:
       - image: circleci/node:13-stretch
+    <<: *test_steps
 
 workflows:
   version: 2
