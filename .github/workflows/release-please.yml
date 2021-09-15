@@ -13,7 +13,7 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          package-name: eorzea-time
+          package-name: eorzea-weather
           release-type: node
       - uses: actions/checkout@v2
         if: ${{ steps.release.outputs.release_created }}
