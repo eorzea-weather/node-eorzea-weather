@@ -32,7 +32,7 @@ export default {
   'zones.eurekaPagos': 'エウレカ：パゴス帯',
   'zones.eurekaPyros': 'エウレカ：ピューロス帯',
   'zones.gridania': 'グリダニア',
-  'zones.idyllshire': 'イデルシャイア',
+  'zones.idyllshire': 'イディルシャイア',
   'zones.ilMheg': '妖精郷イル・メグ',
   'zones.ishgard': 'イシュガルド',
   'zones.kholusia': 'コルシア島',
