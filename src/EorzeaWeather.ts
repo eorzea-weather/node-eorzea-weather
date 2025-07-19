@@ -126,6 +126,10 @@ export default class EorzeaWeather {
     return zones.ZONE_NORTHERN_THANALAN;
   }
 
+  static get ZONE_OCCULT_CRESCENT_SOUTH_HORN(): string {
+    return zones.ZONE_OCCULT_CRESCENT_SOUTH_HORN;
+  }
+
   static get ZONE_OUTER_LA_NOSCEA(): string {
     return zones.ZONE_OUTER_LA_NOSCEA;
   }

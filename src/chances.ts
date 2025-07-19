@@ -1,4 +1,5 @@
 import {
+  WEATHER_ATMOSPHERIC_PHANTASMS,
   WEATHER_BLIZZARDS,
   WEATHER_CLEAR_SKIES,
   WEATHER_CLOUDS,
@@ -8,6 +9,7 @@ import {
   WEATHER_GALES,
   WEATHER_GLOOM,
   WEATHER_HEAT_WAVES,
+  WEATHER_ILLUSORY_DISTURBANCES,
   WEATHER_RAIN,
   WEATHER_SHOWERS,
   WEATHER_SNOW,
@@ -537,6 +539,25 @@ export const northernThanalan = (chance: number): string => {
     return WEATHER_CLOUDS;
   }
   return WEATHER_FOG;
+};
+
+export const occultCrescentSouthHorn = (chance: number): string => {
+  if (chance < 10) {
+    return WEATHER_CLEAR_SKIES;
+  }
+  if (chance < 55) {
+    return WEATHER_FAIR_SKIES;
+  }
+  if (chance < 70) {
+    return WEATHER_CLOUDS;
+  }
+  if (chance < 80) {
+    return WEATHER_RAIN;
+  }
+  if (chance < 95) {
+    return WEATHER_ATMOSPHERIC_PHANTASMS;
+  }
+  return WEATHER_ILLUSORY_DISTURBANCES;
 };
 
 export const outerLaNoscea = (chance: number): string => {

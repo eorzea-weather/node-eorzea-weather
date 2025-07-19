@@ -27,6 +27,7 @@ export const ZONE_MIST = 'mist';
 export const ZONE_MOR_DHONA = 'morDhona';
 export const ZONE_NORTH_SHROUD = 'northShroud';
 export const ZONE_NORTHERN_THANALAN = 'northernThanalan';
+export const ZONE_OCCULT_CRESCENT_SOUTH_HORN = 'occultCrescentSouthHorn';
 export const ZONE_OUTER_LA_NOSCEA = 'outerLaNoscea';
 export const ZONE_RHALGRS_REACH = 'rhalgrsReach';
 export const ZONE_SHIROGANE = 'shirogane';

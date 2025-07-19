@@ -1,4 +1,5 @@
 export default {
+  'weathers.atmosphericPhantasms': 'Atmospheric Phantasms',
   'weathers.blizzards': 'Blizzards',
   'weathers.clearSkies': 'Clear Skies',
   'weathers.clouds': 'Clouds',
@@ -8,6 +9,7 @@ export default {
   'weathers.gales': 'Gales',
   'weathers.gloom': 'Gloom',
   'weathers.heatWaves': 'Heat Waves',
+  'weathers.illusoryDisturbances': 'Illusory Disturbances',
   'weathers.rain': 'Rain',
   'weathers.showers': 'Showers',
   'weathers.snow': 'Snow',
@@ -48,6 +50,7 @@ export default {
   'zones.outerLaNoscea': 'Outer La Noscea',
   'zones.rhalgrsReach': "Rhalgr's Reach",
   'zones.shirogane': 'Shirogane',
+  'zones.occultCrescentSouthHorn': 'Occult Crescent: South Horn',
   'zones.southShroud': 'South Shroud',
   'zones.southernThanalan': 'Southern Thanalan',
   'zones.theAzimSteppe': 'The Azim Steppe',

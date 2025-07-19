@@ -45,6 +45,7 @@ export default {
   'zones.morDhona': 'モードゥナ',
   'zones.northernThanalan': '北ザナラーン',
   'zones.northShroud': '黒衣森：北部森林',
+  'zones.occultCrescentSouthHorn': 'クレセントアイル：南征編',
   'zones.outerLaNoscea': '外地ラノシア',
   'zones.rhalgrsReach': 'ラールガーズリーチ',
   'zones.shirogane': 'シロガネ',

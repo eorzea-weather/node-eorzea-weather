@@ -1,3 +1,4 @@
+export const WEATHER_ATMOSPHERIC_PHANTASMS = 'atmosphericPhantasms';
 export const WEATHER_BLIZZARDS = 'blizzards';
 export const WEATHER_CLEAR_SKIES = 'clearSkies';
 export const WEATHER_CLOUDS = 'clouds';
@@ -7,6 +8,7 @@ export const WEATHER_FOG = 'fog';
 export const WEATHER_GALES = 'gales';
 export const WEATHER_GLOOM = 'gloom';
 export const WEATHER_HEAT_WAVES = 'heatWaves';
+export const WEATHER_ILLUSORY_DISTURBANCES = 'illusoryDisturbances';
 export const WEATHER_RAIN = 'rain';
 export const WEATHER_SHOWERS = 'showers';
 export const WEATHER_SNOW = 'snow';
